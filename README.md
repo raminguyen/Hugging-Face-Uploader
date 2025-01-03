@@ -153,27 +153,11 @@ models = [
    ```
 
 ---
-# 🔧 Hugging Face Model Management Scripts
 
-This guide explains how to use two scripts, `push.py` and `deletemodels.py`, to manage your Hugging Face repositories. You can use these scripts to create repositories, upload fine-tuned models, or delete repositories.
+Any questions? Cool - let's discuss it with me now 🟢 
 
----
+**LinkedIn**: [http://www.linkedin.com/in/rami-huu-nguyen/](http://www.linkedin.com/in/rami-huu-nguyen/) | **Email**: [rami.nguyen12@gmail.com](mailto:rami.nguyen12@gmail.com) | **Learn More About Me (Resume)**: [View My Resume](https://docs.google.com/document/d/17-sjbPCVa1Z0SxOfZr4kHi3VOdJCSIz9GOS6SBeSgUg/edit?usp=sharing)
 
-## 🔎 Requirements
-
-1. **Install Python**: Ensure Python is installed on your system.
-2. **Install Required Libraries**:
-   Run this command in your terminal:
-   ```bash
-   pip install huggingface_hub
-   ```
-3. **Set Your Hugging Face Token**:
-   Replace `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` in the scripts with your own Hugging Face token. You can generate a token from [Hugging Face's token page](https://huggingface.co/settings/tokens).
-
----
-Feel free to connect with me for any questions or assistance:
-
-**LinkedIn**: [http://www.linkedin.com/in/rami-huu-nguyen/](http://www.linkedin.com/in/rami-huu-nguyen/) | **Email**: [rami.nguyen12@gmail.com](mailto:rami.nguyen12@gmail.com) | OR Learn More about Me **Resume**: [https://docs.google.com/document/d/17-sjbPCVa1Z0SxOfZr4kHi3VOdJCSIz9GOS6SBeSgUg/edit?usp=sharing](https://docs.google.com/document/d/17-sjbPCVa1Z0SxOfZr4kHi3VOdJCSIz9GOS6SBeSgUg/edit?usp=sharing) 
 
 
 
