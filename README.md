@@ -1,6 +1,4 @@
-# Hugging-Face-Uploader
-
-# 🟢 Hugging Face Model Management Scripts
+## 🟢 Introduction
 
 This guide explains how to use two scripts, `push.py` and `deletemodels.py`, to manage your Hugging Face repositories. You can use these scripts to create repositories, upload fine-tuned models, or delete repositories.
 
