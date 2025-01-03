@@ -1,12 +1,12 @@
 # Hugging-Face-Uploader
 
-# 🔧 Hugging Face Model Management Scripts
+# 🟢 Hugging Face Model Management Scripts
 
 This guide explains how to use two scripts, `push.py` and `deletemodels.py`, to manage your Hugging Face repositories. You can use these scripts to create repositories, upload fine-tuned models, or delete repositories.
 
 ---
 
-## 🔎 Requirements
+## Requirements
 
 1. **Install Python**: Ensure Python is installed on your system.
 2. **Install Required Libraries**:
@@ -19,7 +19,7 @@ This guide explains how to use two scripts, `push.py` and `deletemodels.py`, to 
 
 ---
 
-## 🔧 Scripts Overview
+## Scripts Overview
 
 ### 1. **`push.py`** - Create Repositories and Upload Models
 
@@ -56,7 +56,7 @@ This script lets you:
    - Creates repositories in your Hugging Face account, named like `finetuning-exp1-numberone`.
    - Uploads all files from the `fine_tuned_model` folders to their respective repositories.
 
-#### ✨ Demo:
+#### 🟢 Demo:
 For instance, if your folder name is `EXP2`, run:
 
 ```bash
@@ -76,7 +76,7 @@ This will:
 
 This script deletes repositories from your Hugging Face account. Be careful as this cannot be undone.
 
-#### ⚡️ Steps to Use:
+#### 🟢 Steps to Use:
 
 1. **Run the Script to Delete All Repositories**:
    ```bash
@@ -105,7 +105,7 @@ python deletemodels.py
 
 ---
 
-## 🌍 Code Customization
+## Code Customization
 
 ### Define Your Directory
 To ensure the scripts work correctly for you:
@@ -132,7 +132,7 @@ models = [
 
 ---
 
-## 💡 Example Workflow
+## 🟢 Example Workflow
 
 1. **Fork the Repository**:
    Fork this repository to create your own copy.
@@ -153,6 +153,27 @@ models = [
    ```
 
 ---
+# 🔧 Hugging Face Model Management Scripts
 
-Feel free to reach out if you have any questions or need assistance! 😊
+This guide explains how to use two scripts, `push.py` and `deletemodels.py`, to manage your Hugging Face repositories. You can use these scripts to create repositories, upload fine-tuned models, or delete repositories.
+
+---
+
+## 🔎 Requirements
+
+1. **Install Python**: Ensure Python is installed on your system.
+2. **Install Required Libraries**:
+   Run this command in your terminal:
+   ```bash
+   pip install huggingface_hub
+   ```
+3. **Set Your Hugging Face Token**:
+   Replace `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` in the scripts with your own Hugging Face token. You can generate a token from [Hugging Face's token page](https://huggingface.co/settings/tokens).
+
+---
+Feel free to connect with me for any questions or assistance:
+
+**LinkedIn**: [http://www.linkedin.com/in/rami-huu-nguyen/](http://www.linkedin.com/in/rami-huu-nguyen/) | **Email**: [rami.nguyen12@gmail.com](mailto:rami.nguyen12@gmail.com) | OR Learn More about Me **Resume**: [https://docs.google.com/document/d/17-sjbPCVa1Z0SxOfZr4kHi3VOdJCSIz9GOS6SBeSgUg/edit?usp=sharing](https://docs.google.com/document/d/17-sjbPCVa1Z0SxOfZr4kHi3VOdJCSIz9GOS6SBeSgUg/edit?usp=sharing) 
+
+
 
